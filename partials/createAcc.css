@@ -1,0 +1,19 @@
+@import "compass/css3";
+
+
+.containeracc form {
+background:rgba(204, 204, 204, 0.5);
+padding: 4em 4em 2em;
+max-width: 400px;
+margin: 50px auto 0;
+box-shadow: 0 0 1em #222;
+border-radius: 2px;
+}
+.containeracc input {
+display: block;
+box-sizing: border-box;
+width: 100%;
+outline: none;
+margin:0;
+
+}
